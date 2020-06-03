@@ -1,0 +1,22 @@
+.text-center{
+    font-size: 3em;
+}
+.needs-validation{
+    /* width: 50% !important; */
+     position: relative !important; 
+    /* text-align: center !important; */
+    
+}
+.form-control{
+    /* text-align: center !important; */
+    /* width: 50% !important;
+    position: relative;
+    left: 100px !important; */
+    
+}
+.col-md-6{
+    /* text-align: center !important; */
+    /* width: 50% !important; */
+    /* position: relative;
+    left: 100px !important; */
+}
